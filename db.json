@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "judul": "Tips Tailwind CSS Terbaru COKK",
+      "body": "Tailwind CSS adalah framework utility-first yang memudahkan styling komponen.",
+      "created_at": "2024/08/28",
+      "image": "https://picsum.photos/seed/2/200",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "judul": "Pengenalan Next.js",
+      "body": "Next.js adalah framework React yang mendukung rendering server-side dan static site generation.",
+      "created_at": "2024/08/28",
+      "image": "https://picsum.photos/seed/432/200"
+    },
+    {
+      "id": "4",
+      "judul": "Menggunakan Supabase",
+      "body": "Supabase adalah alternatif open-source untuk Firebase yang menawarkan backend instan.",
+      "created_at": "2024/08/28",
+      "image": "https://picsum.photos/seed/1/200"
+    },
+    {
+      "id": "7dc8",
+      "judul": "Pemanfaatan Supabase",
+      "body": "Supabase berfungsi sebagai alternatif open-source untuk Firebase yang menawarkan backend instan.",
+      "created_at": "2024/08/29",
+      "image": "https://picsum.photos/seed/9/200"
+    },
+    {
+      "id": "1e83",
+      "judul": "Pemanfaatan Supabase",
+      "body": "Supabase berfungsi sebagai alternatif open-source untuk Firebase yang menawarkan backend instan.",
+      "image": "https://picsum.photos/seed/9/200"
+    }
+  ]
+}
